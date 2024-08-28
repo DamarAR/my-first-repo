@@ -5,3 +5,5 @@ NPM: 2306256280
 Class: PBP KKI
 
 Hobby : Coding
+
+Major : Computer System Information
